@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Asclepius</string>
+    <string name="gallery">Choose image</string>
+    <string name="analyze">Analyze image</string>
+    <string name="result">Result</string>
+    <string name="image_classifier_failed">ERROR</string>
+</resources>
